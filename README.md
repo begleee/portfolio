@@ -16,17 +16,12 @@ Language: `TypeScript 5.7`
 
 ### Key Features
 Bleeding Edge Performance
-Utilizes the latest features of React 19 and Next.js 16 for lightning-fast server-side rendering and client-side transitions. Integrated Vercel Analytics to monitor real-world user performance.
+Utilizes the latest features of `React 19` and `Next.js 16` for lightning-fast server-side rendering and client-side transitions. Integrated Vercel Analytics to monitor real-world user performance.
 
 ### Advanced UI/UX
-Motion System: Smooth, physics-based transitions using framer-motion and embla-carousel.
+Motion System: Smooth, `framer-motion` and `embla-carousel`.
 
 ### Dynamic Theming: Full support for Light/Dark/System modes via next-themes.
-
-### Accessible Components: Built on top of Radix UI primitives to ensure WCAG compliance (Accordions, Dialogs, Menus, Tooltips).
-
-### Data Visualization
-Interactive data tracking and skill representations using Recharts, providing a visual deep-dive into project statistics and technical proficiency.
 
 ### Getting Started
 Prerequisites
