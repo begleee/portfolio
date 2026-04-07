@@ -94,7 +94,7 @@ export const translations = {
       title: 'Обо мне',
       p1: 'Мне 20 лет, я студент и активно развиваюсь во frontend-разработке. Имею практический опыт создания SPA, работы с асинхронными данными, управлением состоянием и компонентной архитектурой.',
       p2: 'Быстро обучаюсь, внимателен к качеству кода и заинтересован в профессиональном росте и работе в команде. Специализируюсь на создании пользовательских интерфейсов на React с использованием современных инструментов.',
-      p3: 'Когда я не пишу код, изучаю новые технологии, участвую в open-source проектах или учусь программной инженерии в Международном университете гуманитарных наук и развития.',
+      p3: 'Когда я не пишу код, изучаю новые технологии, участвую в open-source проектах и учусь Разработке програмного обеспечения в Международном университете гуманитарных наук и развития.',
     },
     experience: {
       title: 'Опыт работы',
@@ -160,7 +160,7 @@ export const translations = {
       title: 'Men hakda',
       p1: 'Men 20 ýaşly frontend dörediji we talyp, web döretmekde işjeň ösýärin. SPA döretmekde, asinhron maglumatlar bilen işlemekde, ýagdaý dolandyryşynda we komponent arhitekturasyny amaly tejribäm bar.',
       p2: 'Çalt öwrenýärin, kod hiline ünsli we hünär ösüşine we toparyň işine gyzyklanýaryn. Häzirki zaman gurallary ulanyp React bilen ulanyjy interfeýslerini döretmekde ýöriteleşýärin.',
-      p3: 'Kod ýazmaýan wagtym täze tehnologiýalary öwrenýärin, açyk çeşme taslamalaryna gatnaşýaryn ýa-da Halkara Ynsanperwer we Ösüş Uniwersitetinde programma üpjünçiligi inženerligini okaýaryn.',
+      p3: 'Kod ýazmaýan wagtym täze tehnologiýalary öwrenýärin, açyk çeşme taslamalaryna gatnaşýaryn ýa-da Halkara Ynsanperwer ylymlary we Ösüş Uniwersitetinde Kompyuter ulgamynyn Programma üpjünçiligi okaýaryn.',
     },
     experience: {
       title: 'Iş tejribesi',
@@ -182,7 +182,7 @@ export const translations = {
     },
     education: {
       title: 'Bilim',
-      degree: 'Programma üpjünçiligi inženerçiligi',
+      degree: 'Kompyuter ulgamynyn Programma üpjünçiligi',
       university: 'Halkara Ynsanperwer we Ösüş Uniwersiteti',
       period: '2024 — 2029',
     },
